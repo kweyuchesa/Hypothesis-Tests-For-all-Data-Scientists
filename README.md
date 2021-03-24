@@ -1,0 +1,2 @@
+# Hypothesis-Tests-For-all-Data-Scientists
+Hypothesis testing is one of the most fundamental elements of inferential statistics. In modern languages like Python and R, these tests are easy to conduct — often with a single line of code. But it never fails to puzzle me how few people use them or understand how they work. In this repository I would like to use an example to show three common hypothesis tests and how they work under the hood, as well as showing how to run them in R and Python and to understand the results.
